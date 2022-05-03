@@ -1,0 +1,49 @@
+X-Pm-Content-Encryption: end-to-end
+X-Pm-Origin: internal
+Subject: Unauthorized transaction
+To: supportDDA@card.com <supportDDA@card.com>, hustle4funds@protonmail.com
+ <hustle4funds@protonmail.com>, prettyp01@protonmail.com <prettyp01@protonmail.com>,
+ prettypnturtle@protonmail.com <prettypnturtle@protonmail.com>
+From: prettyp01 <prettyp01@proton.me>
+Date: Tue, 03 May 2022 11:33:18 +0000
+Mime-Version: 1.0
+Content-Type: multipart/mixed;boundary=---------------------a8df386df90f80edda8e399a81ab4a2d
+Disposition-Notification-To: prettyp01 <prettyp01+readreceipt@proton.me>
+Message-Id: <TQw5CogGpKoRR9kKRAYh_Fh-pH9i5xajI9z0rm2eL1mtxq-RethEXWPwyW43OrSYs_5sJltmkhdJ1_GtmQ6Gc9ZWNbSAltQ_l9JCjHbUndM=@proton.me>
+X-Attached: publickey - prettyp01@proton.me - 0x13B364BE.asc
+X-Pm-Spamscore: 0
+Received: from mail.protonmail.ch by mail.protonmail.ch; Tue, 03 May 2022 11:33:23 +0000
+X-Original-To: prettyp01@protonmail.com
+Return-Path: <prettyp01@proton.me>
+Delivered-To: prettyp01@protonmail.com
+
+-----------------------a8df386df90f80edda8e399a81ab4a2d
+Content-Type: multipart/related;boundary=---------------------b6ed56dbb742032d55942384f1b7df90
+
+-----------------------b6ed56dbb742032d55942384f1b7df90
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGRpdj5IZWxsbyZuYnNwOzwvZGl2PjxkaXY+SSBhbSBNYXJjZTwvZGl2PjxkaXY+PGJyPjwvZGl2
+PiA8ZGl2IGlkPSJwcm90b25tYWlsX21vYmlsZV9zaWduYXR1cmVfYmxvY2siPjxkaXY+U2VudCBm
+cm9tIFByb3Rvbk1haWwgZm9yIGlPUzwvZGl2PjwvZGl2Pg==
+-----------------------b6ed56dbb742032d55942384f1b7df90--
+-----------------------a8df386df90f80edda8e399a81ab4a2d
+Content-Type: application/pgp-keys; filename="publickey - prettyp01@proton.me - 0x13B364BE.asc"; name="publickey - prettyp01@proton.me - 0x13B364BE.asc"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="publickey - prettyp01@proton.me - 0x13B364BE.asc"; name="publickey - prettyp01@proton.me - 0x13B364BE.asc"
+
+LS0tLS1CRUdJTiBQR1AgUFVCTElDIEtFWSBCTE9DSy0tLS0tDQpWZXJzaW9uOiBPcGVuUEdQLmpz
+IHY0LjEwLjEwDQpDb21tZW50OiBodHRwczovL29wZW5wZ3Bqcy5vcmcNCg0KeGpNRVlsNGx0eFlK
+S3dZQkJBSGFSdzhCQVFkQVorZFp2RVB5NDFGVitZek9nRDRxdU9RT2lOZ0V2Sm1ZDQo5TENBWisy
+L2F2L05LWEJ5WlhSMGVYQXdNVUJ3Y205MGIyNHViV1VnUEhCeVpYUjBlWEF3TVVCd2NtOTANCmIy
+NHViV1Urd284RUVCWUtBQ0FGQW1KZUpiY0dDd2tIQ0FNQ0JCVUlDZ0lFRmdJQkFBSVpBUUliQXdJ
+ZQ0KQVFBaENSQll6OUFyc0xCSGV4WWhCQk96Wkw3L1B4dUl6TElRMWxqUDBDdXdzRWQ3VW1FQkFP
+N0ZtZmhmDQpaeVE1MDArQUlGRDhPSUxPempCS2c1d1RKRGlwYS9qNk5GR3VBUDk4cy9nVWZlVXNT
+SUZ5VWVvQ1puYUYNCkpDanRHRGFxNVJ1ZHpTeGJzcHdSQmM0NEJHSmVKYmNTQ2lzR0FRUUJsMVVC
+QlFFQkIwQWJNZUVpRUhMRA0KTVFjdnNNZVQ0cnBnd2JmZU5QelArUHNOY3JuK2hkbjlJZ01CQ0Fm
+Q2VBUVlGZ2dBQ1FVQ1lsNGx0d0liDQpEQUFoQ1JCWXo5QXJzTEJIZXhZaEJCT3paTDcvUHh1SXpM
+SVExbGpQMEN1d3NFZDc0cGNBLzFDb0o2azUNCmNCOXEwdkNKTURXamliQ0IzYkhTVGFiZmYxNzN1
+c05pOEwrNkFQNHJ5NlNvS204dWdSQ1hqOFR3ZVNsWg0KVUZBNGt4dElhTVoyaEUvMnMvdWpDUT09
+DQo9SGZCMw0KLS0tLS1FTkQgUEdQIFBVQkxJQyBLRVkgQkxPQ0stLS0tLQ0K
+-----------------------a8df386df90f80edda8e399a81ab4a2d--
